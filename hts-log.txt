@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 20 Mar 2024 22:38:47 at https://bossran.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://bossran.net/ -O1 "D:\BossranWeb\BossranWeb2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:38:56	Error: 	"Not Found" (404) at link https://bossran.net/t (from https://bossran.net/)
+22:38:56	Warning: 	Moved Permanently for https://bossran.net/"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1714314678&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=false\%22></iframe><div
+22:38:56	Warning: 	File has moved from https://bossran.net/"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1714314678&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=false\%22></iframe><div to https://bossran.net/%22https:/w.soundcloud.com/player?url=https%3A//api.soundcloud.com/playlists/1714314678&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=false\%22></iframe><div
+22:38:57	Error: 	"Not Found" (404) at link https://bossran.net/"https://soundcloud.com/joshua-bossran/" (from https://bossran.net/)
+22:38:57	Error: 	"Not Found" (404) at link https://bossran.net/"https://soundcloud.com/joshua-bossran/sets/bossran-soundtrack/" (from https://bossran.net/)
+22:39:08	Error: 	"Not Found" (404) at link https://bossran.net/%22https:/w.soundcloud.com/player?url=https%3A//api.soundcloud.com/playlists/1714314678%26color=%23ff5500%26auto_play=true%26hide_related=false%26show_comments=true%26show_user=true%26show_reposts=false%26show_teaser=false\%22></iframe><div (from https://bossran.net/"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1714314678&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=false\%22></iframe><div)
+22:39:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://bossran.net/"https://connect.facebook.net/en_US/sdk.js (from https://bossran.net/community)
+22:39:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://bossran.net/"https://www.facebook.com/bossran.net/">BossRan</a></blockquote></div>"],"desktop":[0,{"top":[0,125],"left":[0,719],"width":[0,356],"height":[0,336]}],"settings":[0,{"styles":[0,{"height":[0,331]}]}]}],"zCqnMN":[0,{"rel":[0,"nofollow"],"href":[0,"https://www.facebook.com/groups/bossran.en2"],"type":[0,"GridButton"],"mobile":[0,{"top":[0,261],"left":[0,93],"width":[0,143],"height":[0,73]}],"target":[0,"_blank"],"content":[0,"EN2 (from https://bossran.net/community)
+22:39:09	Error: 	"Not Found" (404) at link https://bossran.net/"https://connect.facebook.net/en_US/sdk.js (from https://bossran.net/community)
+22:39:09	Error: 	"Not Found" (404) at link https://bossran.net/"https://www.facebook.com/bossran.net/">BossRan</a></blockquote></div>"],"desktop":[0,{"top":[0,125],"left":[0,719],"width":[0,356],"height":[0,336]}],"settings":[0,{"styles":[0,{"height":[0,331]}]}]}],"zCqnMN":[0,{"rel":[0,"nofollow"],"href":[0,"https://www.facebook.com/groups/bossran.en2"],"type":[0,"GridButton"],"mobile":[0,{"top":[0,261],"left":[0,93],"width":[0,143],"height":[0,73]}],"target":[0,"_blank"],"content":[0,"EN2 (from https://bossran.net/community)
+
+HTTrack Website Copier/3.49-2 mirror complete in 22 seconds : 58 links scanned, 48 files written (1925686 bytes overall) [1146297 bytes received at 52104 bytes/sec], 1030116 bytes transferred using HTTP compression in 15 files, ratio 16%, 9.6 requests per connection
+(6 errors, 4 warnings, 0 messages)
